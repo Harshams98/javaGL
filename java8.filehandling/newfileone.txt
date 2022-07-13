@@ -1,0 +1,1 @@
+hello this text is from Writingfile.java files
